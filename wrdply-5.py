@@ -31,3 +31,6 @@ print(num)
 
 # closes file
 words.close()
+
+
+

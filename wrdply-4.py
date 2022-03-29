@@ -26,3 +26,5 @@ for y in word:
 print("There are {0} words contain the use only letters.".format(num))
  # closes file
 words.close()
+
+

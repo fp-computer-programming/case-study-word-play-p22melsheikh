@@ -33,3 +33,7 @@ percent = num2 / num1 * 100
 print("{:.4f} percent of words do not contain e".format(percent))
 words.close()
 file.close()
+
+
+
+

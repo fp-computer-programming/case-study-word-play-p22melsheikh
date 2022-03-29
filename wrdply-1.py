@@ -14,3 +14,5 @@ for x in word:
 # closes files
 word.close()
 file.close()
+
+

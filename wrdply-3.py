@@ -27,3 +27,5 @@ print("There are {0} words that don't contain the forbidden letters.".format(num
 
 # closes file
 words.close()
+
+
